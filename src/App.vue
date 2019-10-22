@@ -2,7 +2,7 @@
     <div id="app">
         <Navigation v-if="currentUser"></Navigation>
     	<router-view/>
-        Hello World
+        Hello World 2
     </div>
 </template>
 
